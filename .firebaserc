@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "techno-gadgets",
+    "hosting": "techno-gadgets"
+  },
+  "targets": {},
+  "etags": {}
+}
